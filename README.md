@@ -31,6 +31,7 @@ The planet appears to be a *hot Neptune-sized object*, orbiting extremely close 
 
 # Author
 *Sarthak Singh*
+
 Independent Student Researcher  
 India | June 2025
 
