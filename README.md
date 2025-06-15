@@ -29,12 +29,6 @@ To analyze the light curve of Kepler-10 and detect a transiting exoplanet using:
 
 The planet appears to be a *hot Neptune-sized object*, orbiting extremely close to its star.
 
-
-# Project Files
-[Exoplanet_detection_using_KEPLER_10B.ipynb](Exoplanet_detection_using_KEPLER_10B.ipynb) – Full Python notebook with code, comments, and plots
-[Kepler10b_Exoplanet_Research_SarthakSingh.pdf](Kepler10b_Exoplanet_Research_SarthakSingh.pdf) – Printable version of the analysis for academic or portfolio use
-
-
 # Author
 *Sarthak Singh*
 Independent Student Researcher  
